@@ -2,7 +2,7 @@
 Tumor detection is an important task in medical diagnosis, and machine learning techniques have been widely used to improve accuracy and efficiency. Here, we focus on four popular machine learning algorithms, logistic regression, support vector machines (SVM), Decision tree and Random Forest Classifier for tumor detection.
 
 
-#Image and Dataset Description
+# Image and Dataset Description
 
 This paper mainly focus on image segmentation of a MRi Scan of brain and tumor dataset from Github.
 The original MRI Scan of the brain “Fig 3.1”. The tumor dataset which has classified 2 stages of tumor M - malignant and B - Begin.There is total 357 begin tumor stage and 212 malignant tumour stage and there is total 539 rows and 31 columns. The dataset also contains the following information- 
