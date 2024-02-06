@@ -5,7 +5,7 @@ Tumor detection is an important task in medical diagnosis, and machine learning 
 # Image and Dataset Description
 
 This paper mainly focus on image segmentation of a MRi Scan of brain and tumor dataset from Github.
-The original MRI Scan of the brain “Fig 3.1”. The tumor dataset which has classified 2 stages of tumor M - malignant and B - Begin.There is total 357 begin tumor stage and 212 malignant tumour stage and there is total 539 rows and 31 columns. The dataset also contains the following information- 
+The original MRI Scan of the brain . The tumor dataset which has classified 2 stages of tumor M - malignant and B - Begin.There is total 357 begin tumor stage and 212 malignant tumour stage and there is total 539 rows and 31 columns. The dataset also contains the following information- 
 Ten real-valued features are computed for each cell nucleus: 
 •	radius (mean of distances from center to points on the perimeter) 
 •	texture (standard deviation of gray-scale values) 
